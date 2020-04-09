@@ -1,0 +1,7 @@
+.posting-list__header {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}

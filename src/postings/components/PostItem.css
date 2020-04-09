@@ -1,0 +1,34 @@
+.posting-item__container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 10px 0;
+  align-items: center;
+}
+
+.posting-item__container:hover {
+  cursor: pointer;
+  background-color: darkgray;
+  color: white;
+}
+
+.posting-item__title {
+  padding: 0 30px;
+}
+
+.posting-item__company {
+  padding: 0 30px;
+}
+
+.posting-item__location {
+  padding: 0 30px;
+}
+
+.posting-item__date {
+  padding: 0 30px;
+}
+
+.posting-item__dialog {
+  padding: 30px 50px;
+}
